@@ -19,10 +19,10 @@ export default function Home() {
 
         <main className="flex flex-col gap-8 mt-8 justify-center px-6 pb-10">
           <h1 className="font-semibold tracking-tight text-zinc-900 text-3xl leading-tight md:text-4xl max-w-lg">
-            Join the conversation: Secure your spot on our Chat App!
+            Get a free review/roast of your current leads generation strategy!
           </h1>
           <p className="text-gray-500">
-            Join the waitlist to be notified when our app is available!
+             Get a 1:1 honest opinion on your current strategy for leads generation and how to improve it!
           </p>
 
           <EmailForm />
