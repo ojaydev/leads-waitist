@@ -56,7 +56,7 @@ export default function EmailForm() {
             className="flex h-10 shrink-0 items-center justify-center gap-1 rounded-lg bg-[#000F2D] px-4 py-2 text-sm font-semibold text-white transition-all hover:bg-zinc-700"
             type="submit"
           >
-            <span>Join the waitlist</span>
+            <span>Get free review</span>
           </button>
         </div>
       </form>
