@@ -13,7 +13,7 @@ export default function Home() {
             src="/logo.png"
             alt="Luminar Leads eBook"
             fill
-            className="object-contain mt-8 md:mt-24 px-30 object-bottom"
+            className="object-contain mt-8 md:mt-24 px-50 object-bottom"
           />
         </div>
 
