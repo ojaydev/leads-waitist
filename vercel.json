@@ -4,5 +4,12 @@
       "source": "/luminar",
       "destination": "/"
     }
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/luminar",
+      "statusCode": 307
+    }
   ]
 }
