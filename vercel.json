@@ -1,15 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/luminar",
+      "source": "/Luminar",
       "destination": "/"
-    }
-  ],
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/luminar",
-      "statusCode": 307
     }
   ]
 }
