@@ -1,1 +1,8 @@
-
+{
+  "rewrites": [
+    {
+      "source": "/luminar",
+      "destination": "/"
+    }
+  ]
+}
