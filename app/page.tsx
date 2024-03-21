@@ -13,7 +13,7 @@ export default function Home() {
             src="/mobile-app.png"
             alt="Luminar Leads eBook"
             fill
-            className="object-contain mt-8 md:mt-24 px-100 object-bottom"
+            className="object-contain mt-8 md:mt-24 px-14 object-bottom"
           />
         </div>
 
