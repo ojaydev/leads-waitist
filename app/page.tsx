@@ -19,10 +19,10 @@ export default function Home() {
 
         <main className="flex flex-col gap-8 mt-8 justify-center px-6 pb-10">
           <h1 className="font-semibold tracking-tight text-zinc-900 text-3xl leading-tight md:text-4xl max-w-lg">
-            Get a free review/roast of your current leads generation strategy!
+            Get a free eBook to maximum results on your leads generation strategy!
           </h1>
           <p className="text-gray-500">
-             Get a 1:1 honest opinion on your current strategy for leads generation and how to improve it!
+             Get curated tips/strategies for leads generation and how to improve your current process!
           </p>
 
           <EmailForm />
