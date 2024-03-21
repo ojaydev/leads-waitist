@@ -11,9 +11,9 @@ export default function Home() {
         <div className="md:h-full h-80 bg-[#C9F9D1] relative overflow-hidden">
           <Image
             src="/photo_2024-01-28_10-14-35.jpg"
-            alt="Mobile App Screenshots"
+            alt="Luminar Leads eBook"
             fill
-            className="object-contain mt-8 md:mt-24 px-14 object-bottom"
+            className="object-contain mt-8 md:mt-24 px-18 object-bottom"
           />
         </div>
 
